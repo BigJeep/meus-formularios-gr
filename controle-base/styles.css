@@ -1,0 +1,27 @@
+body{
+  padding: 25px;
+}
+.title {
+	color: #5C6AC4;
+}
+
+.input-valores {
+  position: absolute;
+  left: 300px;
+  padding: 5px;
+}
+
+#base-select {
+  height: 30px;
+}
+
+input.input-valores[type="number"] {
+  width: 50px;
+  
+}
+
+html {
+  font-family: Sans-Serif;
+  line-height: 30px;
+}
+
